@@ -18,3 +18,7 @@ Set the desired alarm time by selecting the hour, minute, and second.
 Click the "Set Alarm" button.
 The application will continuously check the current time against the set alarm time.
 When the alarm time matches the current time, a sound will play to alert the user.
+
+
+# you can check how it works in video, in linkdn 
+https://www.linkedin.com/posts/yonatan-gizaw-8b8575249_python-gui-programming-activity-7122609244490641409-1EqD?utm_source=share&utm_medium=member_desktop
